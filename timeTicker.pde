@@ -1,3 +1,17 @@
+/*
+  timeTicker
+  Chia Yang Chang (Andrew)
+  10/2019
+*/
+
+/*
+  Acknowledgments
+  Inspired by:
+
+  Coding Challenge #102: 2D Water Ripple
+  https://www.youtube.com/watch?v=BZUdGqeOD0w&t=678s
+  
+*/
 int w1=200;
 int h1=200;
 float sc,min,hr;
